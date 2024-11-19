@@ -6,10 +6,10 @@ useHead({
     lang: 'en',
   },
   charset: 'utf-8',
-  title: 'Nuxt Movies',
-  titleTemplate: title => title !== 'Nuxt Movies' ? `${title} · Nuxt Movies` : title,
+  title: 'Nuxt Dramas',
+  titleTemplate: title => title !== 'Nuxt Dramas' ? `${title} · Nuxt Dramas` : title,
   meta: [
-    { name: 'description', content: 'A TMDB client built with Nuxt Image to show the potential of it ✨' },
+    { name: 'description', content: 'Pakistani Dramas world ✨' },
     { property: 'og:image', content: 'https://movies.nuxt.space/social-card.png' },
     { name: 'twitter:card', content: 'summary_large_image' },
     { name: 'twitter:site', content: '@nuxt_js' },
